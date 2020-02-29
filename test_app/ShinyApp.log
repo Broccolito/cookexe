@@ -1,0 +1,18 @@
+library paths:
+... C:/Users/wanju/Desktop/test_app/R-Portable/App/R-Portable/library
+Loading required package: shiny
+
+Attaching package: 'shinydashboard'
+
+The following object is masked from 'package:graphics':
+
+    box
+
+
+Listening on http://127.0.0.1:7135
+Browser path: C:/Users/wanju/Desktop/test_app/GoogleChromePortable/App/Chrome-bin/chrome.exe
+[29620:40304:0228/165607.757:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[29620:40304:0228/165607.758:ERROR:cache_util.cc(135)] Unable to move cache folder C:\Users\wanju\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\wanju\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+[29620:40304:0228/165607.758:ERROR:disk_cache.cc(184)] Unable to create cache
+[29620:40304:0228/165607.758:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+Opening in existing browser session.
